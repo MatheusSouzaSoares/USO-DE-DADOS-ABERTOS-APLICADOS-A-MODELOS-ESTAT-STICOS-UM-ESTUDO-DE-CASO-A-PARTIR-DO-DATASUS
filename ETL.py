@@ -4,7 +4,7 @@ import json
 import time
 
 def get_variables():
-    api_key = 'b0dd680f8dacf3039d16aeda4c701427'
+    api_key = 'insira sua chave aqui'
 
     dataframes = []
 
